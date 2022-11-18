@@ -169,6 +169,10 @@
         {
           "name": "FizzBuzz",
           "puntos": 5
+        },
+        {
+          "name": "Telegram Bot",
+          "puntos": 100
         }
       ]
     },
